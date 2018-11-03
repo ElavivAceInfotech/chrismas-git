@@ -1,0 +1,31 @@
+<?php
+
+return [
+
+    'showing-all'   	    => 'Showing All Banners',
+	'create-new'    		=> 'New Banners',
+	'caption'   			=> '{1} :bannerscount Banners total|[2,*] :bannerscount total Banners',
+	'indexname'				=> 'Name',
+	'indexstatus'			=> 'Status',
+	'clear-search'			=> 'Clear Search Results',
+	'submit-search'			=> 'Search',
+	'search-users-ph'   	=> 'Search',
+	'no-results'        	=> 'No Results',
+	'back-to-main'	 		=> '<span class="hidden-sm hidden-xs">Back to </span><span class="hidden-xs">Channels</span>',
+	'create'				=> 'Create',
+	'lbl_name'				=> 'Name',
+	'lbl_language'			=> 'Language',
+	'language_option'		=> 'Select Language', 
+	'update'				=> 'Update',
+	'lbl_description'		=> 'Description',
+	'lbl_image'				=> 'Image',
+	'indeximage'			=> 'Image',
+	'indexstatus'			=> 'Type',
+	'lbl_type'				=> 'Type',
+	'type_option'			=> 'Select Type',
+	'type_option_one'		=> 'Web',
+	'type_option_two'		=> 'Mobile',
+	'lbl_title'				=> 'Title',
+	'lbl_subtitle'			=> 'Sub Title',	
+	'lbl_mobileimage'		=> 'Mobile Image',
+];       
